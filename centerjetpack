@@ -1,0 +1,8 @@
+div.sharedaddy .sd-content {
+	width: 100%;
+	text-align: center;
+}
+
+div.sharedaddy .sd-content ul {
+	display: inline-block;
+}
